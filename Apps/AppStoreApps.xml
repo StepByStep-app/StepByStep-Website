@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Applications</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Same Same</string>
+			<key>Description</key>
+			<string>Match identical items</string>
+			<key>MinAge</key>
+			<real>1.5</real>
+			<key>UrlScheme</key>
+			<string>StepByStep01</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1135853830?mt=8</string>
+			<key>MovieUrl</key>
+			<string>AsDFQHOgpxk</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Pair By Kind</string>
+			<key>Description</key>
+			<string>Match visually related items</string>
+			<key>MinAge</key>
+			<integer>2</integer>
+			<key>UrlScheme</key>
+			<string>StepByStep02</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1135858883?mt=8</string>
+			<key>MovieUrl</key>
+			<string>2v4F6wxJ3KE</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Pair By Nature</string>
+			<key>Description</key>
+			<string>Match logically related items</string>
+			<key>MinAge</key>
+			<real>2.5</real>
+			<key>UrlScheme</key>
+			<string>StepByStep03</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1135860570?mt=8</string>
+			<key>MovieUrl</key>
+			<string>tSEvX693XtY</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Pair By Number</string>
+			<key>Description</key>
+			<string>Match quantities and numbers</string>
+			<key>MinAge</key>
+			<real>3.5</real>
+			<key>UrlScheme</key>
+			<string>StepByStep04</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1135861880?mt=8</string>
+			<key>MovieUrl</key>
+			<string>0VIaxlGrPFw</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Place in Groups</string>
+			<key>Description</key>
+			<string>Create groups of related items</string>
+			<key>MinAge</key>
+			<integer>2</integer>
+			<key>UrlScheme</key>
+			<string>StepByStep05</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1135861893?mt=8</string>
+			<key>MovieUrl</key>
+			<string>wPYEqApfvVw</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Sort By Kind</string>
+			<key>Description</key>
+			<string>Sort visually related items</string>
+			<key>MinAge</key>
+			<integer>2</integer>
+			<key>UrlScheme</key>
+			<string>StepByStep06</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1135864577?mt=8</string>
+			<key>MovieUrl</key>
+			<string>IbBYMEVdBJI</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Sort By Nature</string>
+			<key>Description</key>
+			<string>Sort logically related items</string>
+			<key>MinAge</key>
+			<real>2.5</real>
+			<key>UrlScheme</key>
+			<string>StepByStep07</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1135865771?mt=8</string>
+			<key>MovieUrl</key>
+			<string>W7GBQnfJAwI</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Stack Up</string>
+			<key>Description</key>
+			<string>Stack items bottom-up to build a tower</string>
+			<key>MinAge</key>
+			<real>2.5</real>
+			<key>UrlScheme</key>
+			<string>StepByStep08</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1135865797?mt=8</string>
+			<key>MovieUrl</key>
+			<string>RlUrA03aW_g</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Create a Series</string>
+			<key>Description</key>
+			<string>Arrange items in a sequence</string>
+			<key>MinAge</key>
+			<integer>3</integer>
+			<key>UrlScheme</key>
+			<string>StepByStep09</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1135867219?mt=8</string>
+			<key>MovieUrl</key>
+			<string>TdRWh4HD9tE</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Fill the Matrix</string>
+			<key>Description</key>
+			<string>Place items in the correct cells</string>
+			<key>MinAge</key>
+			<real>3.5</real>
+			<key>UrlScheme</key>
+			<string>StepByStep10</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1135867233?mt=8</string>
+			<key>MovieUrl</key>
+			<string>SJ-eHzp2z-Y</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Vehicle Maze</string>
+			<key>Description</key>
+			<string>Find a route through the maze</string>
+			<key>MinAge</key>
+			<integer>3</integer>
+			<key>UrlScheme</key>
+			<string>StepByStep11</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1186201607?mt=8</string>
+			<key>MovieUrl</key>
+			<string>FkJnHuQ9hvU</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Animal Maze</string>
+			<key>Description</key>
+			<string>Find a route through the maze</string>
+			<key>MinAge</key>
+			<real>3.5</real>
+			<key>UrlScheme</key>
+			<string>StepByStep12</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1186203082?mt=8</string>
+			<key>MovieUrl</key>
+			<string>WL3Vy46pn4Y</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Monster Maze</string>
+			<key>Description</key>
+			<string>Find a route through the maze</string>
+			<key>MinAge</key>
+			<integer>4</integer>
+			<key>UrlScheme</key>
+			<string>StepByStep13</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1186203975?mt=8</string>
+			<key>MovieUrl</key>
+			<string>ybLk-k-MSus</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Mosaics</string>
+			<key>Description</key>
+			<string>Arrange colorful pieces to form a mosaic</string>
+			<key>MinAge</key>
+			<real>3.5</real>
+			<key>UrlScheme</key>
+			<string>StepByStep14</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1186205878?mt=8</string>
+			<key>MovieUrl</key>
+			<string>f-MYFR--Xi0</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Differ By Kind</string>
+			<key>Description</key>
+			<string>Find the visually odd one out</string>
+			<key>MinAge</key>
+			<real>2.5</real>
+			<key>UrlScheme</key>
+			<string>StepByStep15</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1186207345?mt=8</string>
+			<key>MovieUrl</key>
+			<string>3_Lr8lKBat8</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Differ By Nature</string>
+			<key>Description</key>
+			<string>Find the logically odd one out</string>
+			<key>MinAge</key>
+			<real>3.5</real>
+			<key>UrlScheme</key>
+			<string>StepByStep16</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1186210094?mt=8</string>
+			<key>MovieUrl</key>
+			<string>4p-NwI_0Dfg</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Baby Jigsaw</string>
+			<key>Description</key>
+			<string>Assemble 3 pieces of a picture</string>
+			<key>MinAge</key>
+			<real>1.5</real>
+			<key>UrlScheme</key>
+			<string>StepByStep17</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1205481453?mt=8</string>
+			<key>MovieUrl</key>
+			<string>YCqDg0w4IoM</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Animal Jigsaw</string>
+			<key>Description</key>
+			<string>Assemble 4 pieces of a picture</string>
+			<key>MinAge</key>
+			<integer>2</integer>
+			<key>UrlScheme</key>
+			<string>StepByStep18</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1205485395?mt=8</string>
+			<key>MovieUrl</key>
+			<string>HrgEBJX6Kjc</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Vehicle Jigsaw</string>
+			<key>Description</key>
+			<string>Assemble 6 pieces of a picture</string>
+			<key>MinAge</key>
+			<real>2.5</real>
+			<key>UrlScheme</key>
+			<string>StepByStep19</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1205485408?mt=8</string>
+			<key>MovieUrl</key>
+			<string>Yq4uLDPUzuk</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Fairytale Jigsaw</string>
+			<key>Description</key>
+			<string>Assemble 9 pieces of a picture</string>
+			<key>MinAge</key>
+			<integer>3</integer>
+			<key>UrlScheme</key>
+			<string>StepByStep20</string>
+			<key>iTunesUrl_IA</key>
+			<string></string>
+			<key>iTunesUrl_FV</key>
+			<string>https://itunes.apple.com/app/id1205490524?mt=8</string>
+			<key>MovieUrl</key>
+			<string>S2btdMWFUAA</string>
+			<key>Price_FV</key>
+			<integer>0</integer>
+			<key>MinSupportedBuild</key>
+			<string>1</string>
+			<key>New</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>
